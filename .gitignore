@@ -1,0 +1,39 @@
+.gradle/
+local.properties
+/.idea
+*.iml
+/build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+# IntelliJ
+out/
+
+# Android Studio
+.gradle
+/local.properties
+/.idea
+.DS_Store
+
+# Kotlin/Java
+*.class
+*.jar
+
+# Gradle
+.gradle/
+build/
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Misc
+*.log
+
+# Ignore generated files
+app/build/
+
+

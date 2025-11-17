@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- base gradient warm -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FFF8E1"
+                android:centerColor="#FFE082"
+                android:endColor="#FFB300"
+                android:angle="270" />
+        </shape>
+    </item>
+    <!-- subtle diagonal stripe overlay -->
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="1dp" android:height="1dp" />
+            <solid android:color="#30FFFFFF" />
+        </shape>
+    </item>
+</layer-list>

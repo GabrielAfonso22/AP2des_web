@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AP2des_web</string>
+    <string name="title_quiz">Quiz: Qual jogador combina com você?</string>
+    <string name="hint_name">Seu nome</string>
+    <string name="start_quiz">Iniciar Quiz</string>
+    <string name="about">Sobre</string>
+    <string name="share">Compartilhar</string>
+    <string name="open_player_example">Abrir página de jogador (exemplo)</string>
+
+    <string name="question_label">Pergunta</string>
+    <string name="next">Próxima</string>
+    <string name="choose_option">Escolha uma opção</string>
+
+    <string name="result_label">Resultado</string>
+    <string name="share_result">Compartilhar resultado</string>
+    <string name="open_player">Abrir página do jogador</string>
+
+    <string name="about_title">Sobre o App</string>
+    <string name="about_text">Este é um quiz simples que combina você com um jogador de futebol com base em suas respostas. Desenvolvido para a AP2.</string>
+
+    <string name="share_prompt">Compartilhar</string>
+
+    <!-- Added for ResultActivity -->
+    <string name="result_text_format">%1$s, seu jogador ideal é: %2$s (score %3$d)</string>
+    <string name="share_text_format">%1$s combinaria com %2$s! Faça o quiz: #QuizJogador</string>
+    <string name="chooser_title">%s</string>
+
+    <!-- UI improvements -->
+    <string name="app_logo_desc">Logo do Quiz</string>
+    <string name="question_progress_format">Pergunta %1$d / %2$d</string>
+</resources>
