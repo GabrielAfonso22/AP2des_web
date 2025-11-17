@@ -42,3 +42,14 @@ Navegue até a pasta AP2des_web que você clonou e selecione-a.
 Sincronize o Gradle
 
 sreenshots 
+
+<img width="329" height="526" alt="Captura de tela 2025-11-17 132306" src="https://github.com/user-attachments/assets/783e7f42-5dd1-4439-a11e-aad348030d7d" />
+
+<img width="302" height="295" alt="Captura de tela 2025-11-17 132335" src="https://github.com/user-attachments/assets/0730518b-72c5-4071-8d48-d4329c67e52e" />
+
+<img width="232" height="546" alt="Captura de tela 2025-11-17 132635" src="https://github.com/user-attachments/assets/39e22630-db86-4958-b497-da8fb8be43ff" />
+
+<img width="242" height="547" alt="Captura de tela 2025-11-17 132623" src="https://github.com/user-attachments/assets/213c2a07-1288-4a52-bd1e-f99592bb4bd9" />
+
+<img width="240" height="553" alt="Captura de tela 2025-11-17 132539" src="https://github.com/user-attachments/assets/cbd2441a-0e49-4c9b-9854-0e179de5d1ca" />
+
